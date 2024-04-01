@@ -1,0 +1,13 @@
+{
+	"attributeslib.gui.attributes": "\u00a77Attributes",
+	"attributeslib.gui.base": "\u00a77Base: %s",
+	"attributeslib.gui.min": "\u00a77Min: %s",
+	"attributeslib.gui.max": "\u00a77Max: %s",
+	"attributeslib.gui.modifiers": "\u00a77Modifiers",
+	"attributeslib.gui.addition": "\u00a77Addition: %s",
+	"attributeslib.gui.multiply_base": "\u00a77Multiply Base: %s",
+	"attributeslib.gui.multiply_total": "\u00a77Multiply Total: %s",
+	"attributeslib.gui.press_shift": "\u00a77Hold Shift for more info.",
+	"attributeslib.gui.current": "\u00a77Current: %s",
+	"attributeslib.gui.show_attributes": "\u00a77Show Attributes"
+}
